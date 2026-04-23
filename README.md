@@ -23,6 +23,8 @@
 ## 👤 About Me
 
 ```
+## 👤 About Me
+
 I'm a Business Intelligence & AI engineering student, pursuing a double degree — an Engineering Degree at ESPRIT and a Master's Research Degree in Software Engineering at ISI Ariana.
 
 I am currently conducting research at the LIMTIC Laboratory on an autonomous Multi-Agent BI system applied to financial risk analysis and decision-making.
@@ -34,15 +36,23 @@ My interests include Business Intelligence, Machine Learning, Generative AI, MLO
 
 ---
 
-### 🔗 Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=vercel)](https://youssef-mseddi.github.io/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-mseddi-690078228/)
-
-📄 CV: [Download CV](YOUSSEF_MSEDDI_CV.pdf)
+</p>
 ```
+### 🔗 Connect With Me
 
+<p align="center">
+
+<a href="https://youssef-mseddi.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/youssef-mseddi-690078228/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUSSEF_MSEDDI_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Download%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 ---
 
 ## 🛠️ Tech Stack
