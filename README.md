@@ -32,9 +32,15 @@ My interests include Business Intelligence, Machine Learning, Generative AI, MLO
 🎓 Always learning · 🔬 Currently researching · 💼 Open to internships in Data Science, AI & BI  
 📍 Ariana, Tunisia 🇹🇳  
 
-🔗 Portfolio: https://youssef-mseddi.github.io/  
-🔗 LinkedIn: https://www.linkedin.com/in/youssef-mseddi-690078228/  
-📄 CV: [Download CV](https://your-cv-link.pdf)
+---
+
+### 🔗 Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=vercel)](https://youssef-mseddi.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-mseddi-690078228/)
+
+📄 CV: [Download CV](YOUSSEF_MSEDDI_CV.pdf)
 ```
 
 ---
