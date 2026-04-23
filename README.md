@@ -22,17 +22,19 @@
 
 ## 👤 About Me
 
-```python
-youssef = {
-    "role"      : "Data Science & BI Engineer in training",
-    "research"  : "Autonomous BI Multi-Agent System applied to Finance @ LIMTIC",
-    "education" : ["Cycle Ingénieur — ESPRIT",
-                   "Mastère Recherche GL — ISI Ariana"],
-    "interests" : ["Business Intelligence", "Machine Learning",
-                   "Generative AI", "MLOps", "ETL Automation"],
-    "looking_for": "Stage en Data Science · IA · BI",
-    "location"  : "Ariana, Tunisia 🇹🇳",
-}
+```
+I'm a **Data Science & Business Intelligence** engineer in training, pursuing a double degree —
+**Cycle Ingénieur at ESPRIT** and a **Mastère Recherche in Software Engineering at ISI Ariana**.
+
+I'm currently conducting research at **LIMTIC Laboratory** on an autonomous BI Multi-Agent System
+applied to financial risk analysis and decision-making.
+
+My interests span **Business Intelligence**, **Machine Learning**, **Generative AI**,
+**MLOps**, and **ETL Automation**. I enjoy building end-to-end data systems —
+from pipelines and warehouses to dashboards and predictive models.
+
+🎓 Always learning · 🔬 Currently researching · 💼 Open to internships in Data Science, IA & BI
+📍 Ariana, Tunisia 🇹🇳
 ```
 
 ---
