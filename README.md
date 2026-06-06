@@ -25,7 +25,7 @@
 ```
 ## 👤 About Me
 
-I'm a Data Science & Analytics, pursuing a double degree — an Engineering Degree at ESPRIT and a Master's Research Degree in Software Engineering at ISI Ariana.
+I'm a Data Science & Analytics Student, pursuing an Engineering Degree at ESPRIT with a Master of Research in Software Engineering at ISI Ariana.
 
 I am currently conducting research at the LIMTIC Laboratory on an autonomous Multi-Agent BI system applied to financial risk analysis and decision-making.
 
