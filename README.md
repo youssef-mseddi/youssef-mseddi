@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Youssef Mseddi 👋</h1>
 
 <p align="center">
-  <b>Data Science & Business Intelligence | IA & GenAI</b><br/>
+  <b>Data Science & Analytics | GenAI</b><br/>
   <i>Ingénieur en formation · Mastère Recherche GL · Chercheur IA @ LIMTIC</i>
 </p>
 
