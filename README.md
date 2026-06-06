@@ -140,19 +140,6 @@ My interests include Business Intelligence, Machine Learning, Generative AI, MLO
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-mseddi&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-mseddi&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-mseddi&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🎓 Certifications & Bootcamps
 
 - 🟢 **Generative AI Bootcamp** — Nvidia Certified Instructor · *Avr. 2026*
