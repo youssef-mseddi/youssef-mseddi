@@ -3,7 +3,7 @@
 <p align="center">
   <b>Data Science & AI Engineering Student</b><br/>
   <i>Generative AI · RAG · Multi-Agent Systems · Machine Learning · BI</i><br/>
-  <i>Engineering student @ ESPRIT · Research Master's in Software Engineering @ ISI · Ex-AI & Automation Intern @ Deloitte</i>
+  <i>Engineering student @ ESPRIT · Research Master's in Software Engineering @ ISI</i>
 </p>
 
 <p align="center">
