@@ -119,7 +119,7 @@ I'm a **Data Science & AI engineering student at [ESPRIT](https://esprit.tn)**, 
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3>🧩 BI-Flow</h3>
+<h3>🧩 <a href="https://github.com/youssef-mseddi/BI-Flow-Orchestrator">BI-Flow Orchestrator</a></h3>
 Multi-agent BI system with explainable AI: a <b>LangGraph orchestrator</b> drives 7 agents from raw data to an explained dashboard (profiler → quality → ETL → semantic → analyst → dashboard → XAI), with a bounded re-cleaning loop and failure routing.<br /><br />
 <sub>Python · LangGraph · Multi-agent · XAI · Pytest</sub>
 </td>
