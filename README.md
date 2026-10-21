@@ -118,17 +118,25 @@ I'm a **Data Science & AI engineering student at [ESPRIT](https://esprit.tn)**, 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+<h3>🛡️ Audit IT RAG Chatbot · Deloitte</h3>
+Multilingual <b>RAG knowledge assistant</b> for the IT Audit team: junior and newly onboarded auditors ask questions and get answers grounded in internal training documents and <b>ITGC</b> guidance. An admin interface lets authorized users upload documents to enrich the knowledge base.<br /><br />
+<sub>Python · ChromaDB · Embeddings · FastAPI · Streamlit · OpenAI</sub><br />
+<sub><i>Internal Deloitte project, code not public.</i></sub>
+</td>
+<td width="50%" valign="top">
 <h3>🧩 <a href="https://github.com/youssef-mseddi/BI-Flow-Orchestrator">BI-Flow Orchestrator</a></h3>
 Multi-agent BI system with explainable AI: a <b>LangGraph orchestrator</b> drives 7 agents from raw data to an explained dashboard (profiler → quality → ETL → semantic → analyst → dashboard → XAI), with a bounded re-cleaning loop and failure routing.<br /><br />
 <sub>Python · LangGraph · Multi-agent · XAI · Pytest</sub>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3>🚗 <a href="https://github.com/youssef-mseddi/rentflow-ai">RentFlow AI</a></h3>
 Turnkey AI platform for car rental and sales agencies: a <b>voice assistant</b>, an <b>admin assistant</b> and a <b>mailing assistant</b> orchestrated by n8n, with RAG on Qdrant and calculation tools for accurate quotes.<br /><br />
 <sub>n8n · Qdrant · Whisper · Cohere · OpenAI · Docker</sub>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>🏦 Autonomous Financial BI</h3>
 Research at LIMTIC: 13 ML models benchmarked on 5 financial datasets, an OLAP cube of F1-scores and an orchestrator that picks the best model for each problem.<br /><br />
 <sub>Python · Scikit-learn · CatBoost · LightGBM · PyTorch</sub>
